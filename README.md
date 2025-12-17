@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emmanuel Ebeh</h1>
+<h1 align="center">Hi 👋, I'm Emmanuel AHIABOR</h1>
 <h3 align="center">
 Full-Stack Developer | React • Django • Spring Boot • iOS (Swift)
 </h3>
