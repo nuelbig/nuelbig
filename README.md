@@ -1,71 +1,76 @@
 <h1 align="center">Hi 👋, I'm Emmanuel AHIABOR</h1>
 <h3 align="center">
-Full-Stack Developer | React • React Native • Spring Boot • iOS (SwiftUI)
+Full-Stack Developer | React • React Native • Spring Boot • iOS (Swift)
 </h3>
 
 ---
 
-### 👨‍💻 À propos
-- 💻 **Développeur Full-Stack Junior** : Architecture propre, APIs scalables, UIs modernes
-- ⚛️ **Frontend** : React, React Native, JavaScript, HTML5, CSS3
-- 🧠 **Backend** : Java + Spring Boot (REST APIs sécurisées)
-- 📱 **Mobile** : iOS Swift/SwiftUI (en progression active)
-- 🌱 **En apprentissage** : Design système, AWS, certifications cloud
-- 📍 **Lomé, Togo** → Ouvert aux opportunités **Canada/Remote**
-- 📫 **Contact** : [ahiaboremmanuel9@gmail.com](mailto:ahiaboremmanuel9@gmail.com)
+### 👨‍💻 About Me
+- 💻 Full-Stack Developer focused on **clean architecture, scalable APIs, and modern UIs**
+- ⚛️ Frontend: **React (Web)**, **React Native (Mobile)**  
+- 🧠 Backend: **Java + Spring Boot**  
+- 📱 Mobile: **iOS (Swift / SwiftUI) – in progress**  
+- 🌱 Currently sharpening skills in **iOS development & system design**
+- 📍 Based in **Lomé, Togo**
+- 📫 Contact: **[ahiaboremmanuel9@gmail.com](mailto:ahiaboremmanuel9@gmail.com)**
 
 ---
 
-### 🌐 Réseaux
-<p align="center">
+### 🌐 Connect with me
+<p>
   <a href="https://twitter.com/nuelbig" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/nuelbig" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/nuelbig?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 </p>
 
 ---
 
-### 🛠 Stack Technique
+### 🛠 Tech Stack
 
 #### Frontend
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/> 
-<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/>
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
 #### Backend
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> 
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+<p>
+  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+</p>
 
-#### Mobile & Outils
-<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/> 
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+#### Mobile
+<p>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white"/>
+</p>
+
+#### Database & Tools
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</p>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nuelbig&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuelbig&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Langs" width="48%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nuelbig&theme=radical&hide_border=true&background=0D1117" alt="Streak"/>
-</p>
+### 🚀 What I Build
+- REST APIs with **Spring Boot**  
+- Modern web interfaces with **React**  
+- Cross-platform mobile apps with **React Native**  
+- iOS applications with **Swift & SwiftUI**  
+- Full-stack systems with **clean architecture & separation of concerns**
 
 ---
 
-### 🚀 Projets Phares
-- **LostFound Project** : Full-stack app (React + Spring Boot) pour gestion objets perdus/trouvés
-- **InvoicePlaner** : Outil facturation React avec backend sécurisé
-- **WhatsApp Bot** : Automatisation Python/Django pour entreprises
-- **WirePick** : Expérience pro (3+ mois) en solutions IT custom
+⭐️ *Open to collaborations, internships, and serious projects*
 
-**Open à collaborations, stages juniors & projets freelances au Canada !**
-
-⭐️ **Fork/Star si utile** – Dispo pour interviews techniques React/Spring Boot
+Mes stats github ne viennent pas pourquoi?
