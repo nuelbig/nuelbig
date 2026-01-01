@@ -64,7 +64,11 @@ Full-Stack Developer | React • React Native • Spring Boot • iOS (Swift)
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuelbig&theme=dark" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nuelbig&show_icons=true&count_private=true&theme=dark" alt="GitHub stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuelbig&layout=compact&theme=dark" alt="Top Languages"/>
 </p>
 
 
