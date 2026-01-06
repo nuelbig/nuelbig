@@ -72,5 +72,3 @@ Full-Stack Developer | React • React Native • Spring Boot • iOS (Swift)
 ---
 
 ⭐️ *Open to collaborations, internships, and serious projects*
-
-Mes stats github ne viennent pas pourquoi?
