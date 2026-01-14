@@ -18,10 +18,10 @@ Full-Stack Developer | React • React Native • Spring Boot • iOS (Swift)
 
 ### 🌐 Connect with me
 <p>
-  <a href="https://twitter.com/nuelbig" target="_blank">
+  <a href="https://x.com/manouking_02?s=21" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/nuelbig" target="_blank">
+  <a href="https://www.linkedin.com/in/koffi-emmanuel-ahiabor-4b2a1a253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
