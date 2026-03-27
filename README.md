@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Emmanuel AHIABOR</h1>
 <h3 align="center">
-Full-Stack Developer | React • React Native • Spring Boot • iOS (Swift)
+Software Engineer specializing in Java (Spring Boot) & React Ecosystem
 </h3>
 
 ---
