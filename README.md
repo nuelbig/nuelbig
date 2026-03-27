@@ -7,10 +7,9 @@ Software Engineer specializing in Java (Spring Boot) & React Ecosystem
 
 ### About Me
 - Full-Stack Developer focused on **clean architecture, scalable APIs, and modern UIs**
-- Frontend: **React (Web)**, **React Native (Mobile)**  
+- Frontend: **React (Web)**
 - Backend: **Java + Spring Boot**  
-- Mobile: **iOS (Swift / SwiftUI) – in progress**  
-- Currently sharpening skills in **iOS development & system design**
+- Mobile: **React Native (Mobile)** , **iOS (Swift / SwiftUI) – in progress**  
 - Based in **Lomé, Togo**
 - Contact: **[ahiaboremmanuel9@gmail.com](mailto:ahiaboremmanuel9@gmail.com)**
 
@@ -33,7 +32,6 @@ Software Engineer specializing in Java (Spring Boot) & React Ecosystem
 #### Frontend
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -47,6 +45,7 @@ Software Engineer specializing in Java (Spring Boot) & React Ecosystem
 
 #### Mobile
 <p>
+  <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white"/>
 </p>
@@ -62,7 +61,7 @@ Software Engineer specializing in Java (Spring Boot) & React Ecosystem
 
 ---
 
-### 🚀 What I Build
+### What I Build
 - REST APIs with **Spring Boot**  
 - Modern web interfaces with **React**  
 - Cross-platform mobile apps with **React Native**  
@@ -70,5 +69,4 @@ Software Engineer specializing in Java (Spring Boot) & React Ecosystem
 - Full-stack systems with **clean architecture & separation of concerns**
 
 ---
-
-⭐️ *Open to collaborations, internships, and serious projects*
+*Open to collaborations, internships, and serious projects*
