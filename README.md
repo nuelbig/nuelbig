@@ -1,22 +1,22 @@
-<h1 align="center">Hi 👋, I'm Emmanuel AHIABOR</h1>
+<h1 align="center">Hi, I'm Emmanuel AHIABOR</h1>
 <h3 align="center">
 Full-Stack Developer | React • React Native • Spring Boot • iOS (Swift)
 </h3>
 
 ---
 
-### 👨‍💻 About Me
-- 💻 Full-Stack Developer focused on **clean architecture, scalable APIs, and modern UIs**
-- ⚛️ Frontend: **React (Web)**, **React Native (Mobile)**  
-- 🧠 Backend: **Java + Spring Boot**  
-- 📱 Mobile: **iOS (Swift / SwiftUI) – in progress**  
-- 🌱 Currently sharpening skills in **iOS development & system design**
-- 📍 Based in **Lomé, Togo**
-- 📫 Contact: **[ahiaboremmanuel9@gmail.com](mailto:ahiaboremmanuel9@gmail.com)**
+### About Me
+- Full-Stack Developer focused on **clean architecture, scalable APIs, and modern UIs**
+- Frontend: **React (Web)**, **React Native (Mobile)**  
+- Backend: **Java + Spring Boot**  
+- Mobile: **iOS (Swift / SwiftUI) – in progress**  
+- Currently sharpening skills in **iOS development & system design**
+- Based in **Lomé, Togo**
+- Contact: **[ahiaboremmanuel9@gmail.com](mailto:ahiaboremmanuel9@gmail.com)**
 
 ---
 
-### 🌐 Connect with me
+### Connect with me
 <p>
   <a href="https://x.com/manouking_02?s=21" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
@@ -28,7 +28,7 @@ Full-Stack Developer | React • React Native • Spring Boot • iOS (Swift)
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 #### Frontend
 <p>
